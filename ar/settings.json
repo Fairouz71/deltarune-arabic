@@ -1,0 +1,11 @@
+{
+    "name": "العربية",
+    "description": "العربية الفصحى",
+    "link": "",
+    "monospace_fonts": true,
+    "special_mode": true,
+    "enable_translated_songs_switch": false,
+    "translator_mode": true,
+    "line_height_factor": 0.85,
+    "files_url": "https://drive.google.com/drive/folders/1eL2kAeixRaqadg8SMA0DIwfc1BgfjW0B?usp=sharing"
+}
